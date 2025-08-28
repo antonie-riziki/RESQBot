@@ -6,6 +6,6 @@ africastalking
 requests
 google-generativeai
 st-social-media-links
-
+folium
 
 
