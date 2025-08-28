@@ -1,0 +1,11 @@
+streamlit
+python-dotenv
+streamlit_option_menu 
+streamlit_chat
+africastalking
+requests
+google-generativeai
+st-social-media-links
+
+
+
